@@ -1,1 +1,19 @@
+Verify the app can launch
+project-name/Portfolio_VM
+│
+├── requirements/
+│   ├── login-requirements.md
+│   ├── payments-requirements.md
+│
+├── test-cases/
+│   ├── login-test-cases.md
+│   ├── payments-test-cases.md
+│
+├── test-data/
+│   └── users.json
+│
+├── defects/
+│   └── known-defects.md
+│
+└── README.md
 
