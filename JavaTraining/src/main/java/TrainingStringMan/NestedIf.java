@@ -1,0 +1,1 @@
+public static void main(String[] args) {    int x, y, z;    x=10;    y=20;    z=30;    if (x==y) {        System.out.println("yes");    }             if (y>z) {            System.out.println("yes");            // code to run if both condition1 and condition2 are true            }    if (x==z){        System.out.println("yes");    }}
